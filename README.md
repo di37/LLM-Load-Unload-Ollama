@@ -1,4 +1,4 @@
-# Loading LLMs while using via Ollama
+# Loading and Unloading of LLMs while using via Ollama
 
 This simple demonstration is done to show how an LLM can be loaded and unloaded while using via Ollama.  
 
